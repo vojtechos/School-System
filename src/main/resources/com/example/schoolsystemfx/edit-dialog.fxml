@@ -5,9 +5,9 @@
 
 <AnchorPane prefHeight="377.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.schoolsystemfx.EditDialogController">
    <children>
-      <TextArea fx:id="firstName" layoutX="120.0" layoutY="60.0" prefHeight="58.0" prefWidth="437.0" />
-      <TextArea fx:id="lastName" layoutX="120.0" layoutY="142.0" prefHeight="58.0" prefWidth="437.0" />
-      <TextArea fx:id="clazz" layoutX="120.0" layoutY="230.0" prefHeight="58.0" prefWidth="437.0" />
+      <TextArea fx:id="firstNameArea" layoutX="120.0" layoutY="60.0" prefHeight="58.0" prefWidth="437.0" />
+      <TextArea fx:id="lastNameArea" layoutX="120.0" layoutY="142.0" prefHeight="58.0" prefWidth="437.0" />
+      <TextArea fx:id="clazzArea" layoutX="120.0" layoutY="230.0" prefHeight="58.0" prefWidth="437.0" />
       <Label layoutX="37.0" layoutY="75.0" prefHeight="29.0" prefWidth="64.0" text="jméno" />
       <Label layoutX="37.0" layoutY="157.0" prefHeight="29.0" prefWidth="64.0" text="příjmení" />
       <Label layoutX="37.0" layoutY="245.0" prefHeight="29.0" prefWidth="64.0" text="třída" />
